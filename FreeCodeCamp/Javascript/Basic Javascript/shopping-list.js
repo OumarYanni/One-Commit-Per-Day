@@ -1,0 +1,1 @@
+const myList = [["Html", 1], ["Css", 2], ["Javascript", 3], ["Java", 4], ["Angular", 5]];
