@@ -1,0 +1,79 @@
+# FR
+
+# Journal de Développement - Application Calculateur d'Âge
+
+## 05/12/2023
+
+### Progrès Réalisés
+
+- **Interaction avec l'élément Input en JavaScript :**
+  J'ai réussi à récupérer les valeurs de mon élément input et à les afficher correctement dans la console.
+
+- **Validation des champs de formulaire :**
+  J'ai réfléchi sur des méthodes pour valider les champs de mon formulaire.
+
+- **Paramétrage de la fonctionnalité expérimentale "generate commmit message" de gitlens à partir de VS code et l'API OpenAI :**
+  J'ai passé pas mal de temps sur le sujet (car cela ne fonctionnait pas), pour au final me rendre compte que c'était une fonctionnalité payante de Gitlens.
+
+### Ressources Consultées
+
+1. **Placeholder dans les inputs de formulaire (HTML) :**
+   [W3Schools - Input Placeholder](https://www.w3schools.com/tags/att_input_placeholder.asp)
+
+2. **Ajouter une image dans le bouton submit (HTML) :**
+   [Scaler - Image Button in HTML](https://www.scaler.com/topics/image-button-in-html/)
+
+3. **Incorporer une flèche dans le bouton submit (HTML) :**
+   [HTML Arrows - Down Arrow](https://www.toptal.com/designers/htmlarrows/arrows/down-arrow/)
+
+4. **Base de données de flèches standards (HTML) :**
+   [HTML Arrows - Arrows](https://www.toptal.com/designers/htmlarrows/arrows/)
+
+5. **Editeur SVG en ligne (Canva) :**
+   [Canva - Éditeur SVG](https://www.canva.com/fr_fr/outils/editeur-svg/)
+
+6. **Récupérer la valeur d'un input HTML en JavaScript :**
+   [Sentry Answers - Get Value of Text Input Field](<https://sentry.io/answers/how-do-i-get-the-value-of-a-text-input-field-using-javascript/#:~:text=The%20Solution&text=getElementById(%22input%2Dbtn%22,value)%3B%20%7D%20inputBtn.>)
+
+7. **Validation de formulaire en JavaScript :**
+   [W3Schools - JavaScript Validation](https://www.w3schools.com/js/js_validation.asp)
+
+# EN
+
+# Development Journal - Age Calculator App
+
+## December 5, 2023
+
+### Progress Made
+
+- **Interacting with Input Element in JavaScript:**
+  Successfully retrieved the values from my input element and displayed them correctly in the console.
+
+- **Form Field Validation:**
+  Thought about methods to validate the fields in my form.
+
+- **Setting up the experimental "generate commmit message" feature in gitlens using VS code and the OpenAI API :**
+  I spent a lot of time on the subject (because it didn't work), only to realize that it was a paid feature of Gitlens.
+
+### Resources Consulted
+
+1. **Placeholder in form inputs (HTML):**
+   [W3Schools - Input Placeholder](https://www.w3schools.com/tags/att_input_placeholder.asp)
+
+2. **Adding an image to the submit button (HTML):**
+   [Scaler - Image Button in HTML](https://www.scaler.com/topics/image-button-in-html/)
+
+3. **Incorporating an arrow into the submit button (HTML):**
+   [HTML Arrows - Down Arrow](https://www.toptal.com/designers/htmlarrows/arrows/down-arrow/)
+
+4. **Database of standard arrows (HTML):**
+   [HTML Arrows - Arrows](https://www.toptal.com/designers/htmlarrows/arrows/)
+
+5. **Online SVG editor (Canva):**
+   [Canva - SVG Editor](https://www.canva.com/fr_fr/outils/editeur-svg/)
+
+6. **Retrieving the value of an HTML input in JavaScript:**
+   [Sentry Answers - Get Value of Text Input Field](<https://sentry.io/answers/how-do-i-get-the-value-of-a-text-input-field-using-javascript/#:~:text=The%20Solution&text=getElementById(%22input%2Dbtn%22,value)%3B%20%7D%20inputBtn.>)
+
+7. **Form validation in JavaScript:**
+   [W3Schools - JavaScript Validation](https://www.w3schools.com/js/js_validation.asp)
